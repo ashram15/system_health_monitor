@@ -1,0 +1,17 @@
+# ==================================
+# === Java / Maven .gitignore    ===
+# ==================================
+
+# Compiled code and build outputs from Maven
+/target/
+
+# Log files
+*.log
+
+# IDE files (IntelliJ)
+/.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
