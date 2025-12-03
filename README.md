@@ -8,7 +8,7 @@
 
 
 ### About this Project
-This project is a distributed system designed to monitor the health (CPU, RAM, Disk usage) of multiple remote machines in real-time. It was architected to simulate enterprise-level infrastructure monitoring tools like Datadog or Prometheus.
+This project is a distributed system designed to monitor the health (CPU, RAM, Disk usage) of multiple remote machines in real-time. 
 
 It consists of two distinct microservices:
 
